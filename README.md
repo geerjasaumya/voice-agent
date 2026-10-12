@@ -101,6 +101,3 @@ Connect to your agent:
 - **Phase 4**: Web frontend
 - **Phase 5**: Deployment
 
-## 📄 License
-
-MIT
